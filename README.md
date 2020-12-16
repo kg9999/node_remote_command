@@ -12,5 +12,11 @@ How to rum
     
 How it works
   - The Client will establish a socket connection to the server
-  - You issue commands to the server via -POST /api/command  
+  - You issue commands to the server via REST API -POST /api/command  
   - Server sends command to client and wait for a response
+
+
+![Remote Command API Results](images/command.png?raw=true "Command API Results")
+
+
+![Get connected hostnames](images/hosts.png?raw=true "Command API Results")
