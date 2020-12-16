@@ -15,8 +15,11 @@ How it works
   - You issue commands to the server via REST API -POST /api/command  
   - Server sends command to client and wait for a response
 
+ls Command response
 
 ![Remote Command API Results](images/command.png?raw=true "Command API Results")
+
+Getting all connected hosts
 
 
 ![Get connected hostnames](images/hosts.png?raw=true "Command API Results")
